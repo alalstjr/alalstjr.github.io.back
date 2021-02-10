@@ -5,12 +5,6 @@
 	<meta name="description" content="{{ site.description }}">
 	{% include ogmeta.html %}
 
-	{% if site.altmetric == true %}
-
-	{% include altmetric.html %}
-
-	{% endif %}
-
 	<link rel='shortcut icon' type='image/png' href='{{ site.baseurl }}/favicon.ico' />
 
 	<title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
