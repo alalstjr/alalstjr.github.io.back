@@ -20,7 +20,7 @@ category:   JavaScript
 대표적인 코드 에디터 
 [Visual Studio Code - Code Editing](https://code.visualstudio.com/){:target="_blank"}
 저는 웹 개발을 할 때에는 
-[Brackets](http://brackets.io/){:target="_blank"}을 사용 중입니다.
+[Brackets](http://brackets.io/){:target="_blank"} 을 사용 중입니다.
 
 이 두 개 말고도 수도 없이 많은 코드 에디터 프로그램이 존재합니다. <br/>
 자신에게 맞는 코드에디터를 고르시고 설치하시면 충분할 것 같습니다. 
