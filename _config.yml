@@ -153,3 +153,11 @@ prose:
           element: "checkbox"
           label: "Visual Workflow Chart (Some Layouts)"
           value: "true"
+
+comments:
+  active: giscus
+  giscus:
+    repo: github.com/alalstjr/alalstjr.github.io
+    repo_id: MDEwOlJlcG9zaXRvcnkxOTE5Nzk3NTI=
+    category: General
+    category_id: DIC_kwDOC3Fg6M4CiitL

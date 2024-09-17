@@ -1,10 +1,11 @@
 ---
-layout:     post
-title:      JavaScript란 무엇인가?
-author:     쭌프로
-tags: 		  JavaScript
-subtitle:   JavaScript란 의 기초 
-category:   JavaScript
+layout: post
+title: JavaScript란 무엇인가?
+author: 쭌프로
+tags: JavaScript
+subtitle: JavaScript란 의 기초
+category: JavaScript
+comments: true
 ---
 <!-- Start Writing Below in Markdown -->
 
